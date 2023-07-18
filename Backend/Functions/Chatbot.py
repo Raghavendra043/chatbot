@@ -24,7 +24,7 @@ class Chatbot:
   chat_history = []  
   ######
 
-  def __init__(self, api_key="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", chat_history=[]):
+  def __init__(self, api_key="OPENAI_API_KEY", chat_history=[]):
     self.api_key = api_key
     self.chat_history = chat_history
 
