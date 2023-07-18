@@ -6,6 +6,7 @@
 2. pip install flask
 3. pip install flask-cors
 4. In the root directory of the folder, run "python app.py"
+5. Make sure that OPENAI_API_KEY is replaced in the ChatBot class
 
 ### File Structure
 
